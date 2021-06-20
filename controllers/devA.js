@@ -5,3 +5,8 @@ function devA(){
 
     console.log('devA');
 }
+
+function createBranchDevA(){
+
+    console.log('Mình mới tạo nhánh devA nè!!!');
+}
