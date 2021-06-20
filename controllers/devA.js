@@ -9,4 +9,8 @@ function devA() {
 function createBranchDevA() {
 
     console.log('Mình mới tạo nhánh devA nè!!!');
+    console.log('Mình mới tạo nhánh devA nè!!!');
+    console.log('Mình mới tạo nhánh devA nè!!!');
+    console.log('Mình mới tạo nhánh devA nè!!!');
+    console.log('Mình mới tạo nhánh devA nè!!!');
 }
