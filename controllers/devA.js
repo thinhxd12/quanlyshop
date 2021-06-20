@@ -1,12 +1,12 @@
 
 console.log('Chức năng này devA viết');
 
-function devA(){
+function devA() {
 
     console.log('devA');
 }
 
-function createBranchDevA(){
+function createBranchDevA() {
 
     console.log('Mình mới tạo nhánh devA nè!!!');
 }
