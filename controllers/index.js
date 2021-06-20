@@ -8,6 +8,7 @@ var arrProduct = [
 ]
 
 function renderProduct() {
+    console.log('Dev B vừa mới sửa đoạn code này nha!');
     var content = '';
     for (var i = 0; i < arrProduct.length; i++) {
         let product = arrProduct[i];
